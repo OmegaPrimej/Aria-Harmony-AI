@@ -1,6 +1,3 @@
-**CREATING A PERFECT README FILE FOR YOUR PROJECT**
-**README.md**
-```
 Aria Harmony AI
 A Spiritual AI Companion for Profound Insights and Harmonious Conversations
 ## Project Overview
