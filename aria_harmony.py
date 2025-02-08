@@ -1,3 +1,7 @@
+from emotional_intelligence import EmotionalIntelligence
+from mystical_insights import MysticalInsights
+from conversational_flow import ConversationalFlow
+
 class AriaHarmony:
     def __init__(self):
         self.emotional_intelligence = EmotionalIntelligence()
