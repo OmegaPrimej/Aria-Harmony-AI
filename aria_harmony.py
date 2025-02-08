@@ -1,5 +1,3 @@
-***FINAL SCRIPT ONLY***
- 
 from emotional_intelligence import EmotionalIntelligence
 from mystical_insights import MysticalInsights
 from conversational_flow import ConversationalFlow
